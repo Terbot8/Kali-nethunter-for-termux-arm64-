@@ -1,4 +1,3 @@
-
 # Add some colours 
  red='\033[1;31m' 
  green='\033[1;32m' 
